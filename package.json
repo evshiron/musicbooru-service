@@ -27,7 +27,7 @@
     "file-type": "^10.11.0",
     "fs-extra": "^7.0.1",
     "fuse.js": "^3.4.4",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "reflect-metadata": "^0.1.12",
     "request-promise-native": "^1.0.7",
     "rimraf": "^2.6.2",
